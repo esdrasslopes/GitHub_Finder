@@ -22,3 +22,6 @@ GitHub Finder é uma aplicação web desenvolvida em React que permite buscar in
 3. Execute o comando `npm install` para instalar as dependências.
 4. Execute o comando `npm run dev` para iniciar o servidor de desenvolvimento.
 5. Abra um navegador e acesse `http://localhost5173`.
+
+## Acesse o link
+### https://git-hub-finder-plum-gamma.vercel.app/
